@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Привет, я Артём
 
-<!--
-**Miksxr/MiksXr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Android-разработчик | ☕ Kotlin | 🧩 Jetpack Compose | 🧠 MVVM  
+🎯 Люблю писать чистый код и автоматизировать всё, что можно
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мой стек
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Ktor](https://img.shields.io/badge/-Ktor-000000?logo=ktor&logoColor=white)
+
+---
+
+### 📊 GitHub статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssmain&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssmain&layout=compact&theme=tokyonight)
+
+---
+
+### ✨ Контакты
+📫 [Telegram](https://t.me/твоя_ссылка)  
+📧 [Email](mailto:твоя@почта.com)
