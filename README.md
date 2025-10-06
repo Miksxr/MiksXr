@@ -6,17 +6,19 @@
 ---
 
 ### 🚀 Мой стек
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white)
-![KMP](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Coroutines](https://img.shields.io/badge/-Coroutines-0095D5?logo=kotlin&logoColor=white)
-![MVVM](https://img.shields.io/badge/-MVVM-5C2D91?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-5C2D91?logo=androidstudio&logoColor=white)
+
 
 ---
 
