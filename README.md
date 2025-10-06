@@ -19,6 +19,7 @@
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-5C2D91?logo=android&logoColor=white)
 ![Android%20SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white)
+![Unit Tests](https://img.shields.io/badge/Unit%20Tests-009688?logo=testinglibrary&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
 
